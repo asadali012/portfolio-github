@@ -8,13 +8,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ***
-### :small_blue_diamond: Info 
-<img src="https://user-images.githubusercontent.com/94675329/221532606-e50b03b1-2c08-434f-8a9e-6b95630648aa.PNG" />
-
-***
-
-### :small_blue_diamond: About me
-<img src="https://user-images.githubusercontent.com/94675329/221503924-a5f0b20b-7176-4149-b0cd-afd3a7caf83e.PNG" />
 
 ***
 
