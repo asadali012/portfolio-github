@@ -1,6 +1,4 @@
-Hi, My name is Atanu Karmakar, Here you will able to see the deatails about me.
 
-## Atanu Karmakar
 
 ---
 ### Techstacks ✨
